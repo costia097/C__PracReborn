@@ -4,7 +4,7 @@
 
 using namespace std;
 
-int main(){
+int mainSecond(){
     cout << "A" << endl;
 
     int *intP = {nullptr};
