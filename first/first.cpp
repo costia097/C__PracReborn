@@ -27,7 +27,7 @@ void doProcessOfValue(const int *first, const int *second) {
     std::cout << std::addressof(tempOne) << " Ad " << std::addressof(tempTwo) << std::endl;
 }
 
-int main() {
+int mainFirst() {
 
     std::string string = "A A A";
 
